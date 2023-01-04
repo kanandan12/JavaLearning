@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 import java.util.Scanner;
 import org.apache.commons.lang.ArrayUtils;

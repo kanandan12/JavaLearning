@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 // Reverse a String using Recursive function.
 public class Code_21 {

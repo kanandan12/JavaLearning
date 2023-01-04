@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 public class Code_34 {
 

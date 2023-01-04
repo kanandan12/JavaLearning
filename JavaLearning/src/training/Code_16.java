@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 // Matrix in Spiral form.
 public class Code_16 {

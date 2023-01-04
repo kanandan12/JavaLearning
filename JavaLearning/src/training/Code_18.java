@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 // Write a simple Java program to identify and form a string with unique characters.
 public class Code_18 {

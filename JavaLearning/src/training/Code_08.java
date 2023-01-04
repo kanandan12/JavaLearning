@@ -1,4 +1,4 @@
-package learning;
+package training;
 
 // Write a java program to find the second maximum number in an array of integers.
 public class Code_08 {
